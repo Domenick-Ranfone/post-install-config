@@ -31,3 +31,13 @@ In this image, I configured Roles, Departments, and Teams to being our workflow.
 
 
 
+![image](https://github.com/Domenick-Ranfone/post-install-config/assets/138722554/d4927e87-6110-44b4-8e9c-bbe5f6b54a70)
+![image](https://github.com/Domenick-Ranfone/post-install-config/assets/138722554/340b4289-6271-4961-a38a-e2a6c8f706c0)
+
+In this portion, I reviewed and configured the SLA expectation by using the tiers below:
+- SEV-1 (1 hour, 24/7)
+- SEV-2 (4 hours, 24/7)
+- SEV-3 (8 hours, business hours)
+
+
+
