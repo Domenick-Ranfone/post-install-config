@@ -41,3 +41,10 @@ In this portion, I reviewed and configured the SLA expectation by using the tier
 
 
 
+![image](https://github.com/Domenick-Ranfone/post-install-config/assets/138722554/03bb99bd-1fbe-4cac-83cb-24979b902e34)
+![image](https://github.com/Domenick-Ranfone/post-install-config/assets/138722554/1aa54edf-196a-4807-b891-2da8c51be714)
+
+Finally, I updated the Help topics to ensure we had a baseline to help users with FAQ. These topics are the following:
+- Business Critical Outage
+- Password Reset
+- Personal Computer Issues
